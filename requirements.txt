@@ -1,0 +1,6 @@
+beautifulsoup4>=4.12.0
+feedparser>=6.0.11
+pykrx>=1.0.48
+python-dotenv>=1.0.1
+requests>=2.32.0
+yfinance>=0.2.40
